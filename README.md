@@ -1,6 +1,6 @@
 ## About
 
-Hey there, I am Sandeep Nilaji and I am full stack developer residing in Karnataka, India. More than just coding, I love building applications and solving real world problems.
+Hey there, I am Akif Patel and I am full stack developer residing in Karnataka, India. More than just coding, I love building applications and solving real world problems.
 
 🛠 Interests/Skills
 ---
